@@ -1,0 +1,9 @@
+body{background:#A10101;}
+body.pale{background:#CACDDA;}
+body.good{background:#6DB7FD;}
+body.grey{background:#C8C5C5;}
+body.dark{background:#AC0000;}
+h1{font-family:sans-serif; text-decoration:underline;}
+h2.red{text-decoration-color:#D00000;}
+h2.white{text-decoration:underline; text-decoration-color: #FFFFFF;}
+h2.angel{text-decoration:underline}
